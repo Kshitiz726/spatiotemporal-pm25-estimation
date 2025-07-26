@@ -1,35 +1,5 @@
-# 🧠 Reconstructing PM2.5 in Kathmandu Valley using Deep Learning
+# Spatiotemporal Estimation of PM2.5 Concentrations in the Kathmandu Valley Using Deep Neural Networks: Comparative Analysis with Machine Learning Approaches Leveraging OpenMeteo and NASA MERRA-2 Meteorological Datasets
 
-This project aims to reconstruct historical hourly PM2.5 concentrations in **Kathmandu Valley** using deep learning, and benchmark the performance against a classical machine learning model (XGBoost).
-
-The project integrates **meteorological reanalysis data (MERRA-2)** and **ground station PM2.5 measurements** from the **US Embassy (2017–2021)** to build a reliable model capable of inferring past air quality levels when direct measurements were unavailable.
-
----
-
-## 📌 Objectives
-
--  Integrate satellite reanalysis data with limited in-situ PM2.5 records.
--  Train a Deep Neural Network (DNN) to estimate hourly PM2.5.
--  Benchmark performance against XGBoost.
--  Evaluate models using metrics like R², RMSE, MAE, and Bias.
--  Reconstruct hourly PM2.5 for the entire historical period from 1980 onward.
-
----
-
-## 🔬 Methods Used
-
-- **Feature Engineering**: Wind decomposition, humidity, temperature, pressure levels, and cyclical time features.
-- **Data Normalization**: Z-score standardization.
-- **Modeling**: 
-  - DNN: TensorFlow/Keras with layers (128–64–32), ReLU activations, Adam optimizer.
-  - XGBoost: Tree-based regression with grid-tuned hyperparameters.
-- **Evaluation**: Chronological train-test split (70:15:15) with metrics:
-  - R² (Coefficient of Determination)
-  - RMSE (Root Mean Squared Error)
-  - MAE (Mean Absolute Error)
-  - Mean Bias (Δ)
-
----
 
 ## ⚙️ How to Run
 
