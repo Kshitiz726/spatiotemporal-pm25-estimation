@@ -1,0 +1,1 @@
+You will need to download the NASA- MERRA2 dataset from the dataset url as mentioned 
