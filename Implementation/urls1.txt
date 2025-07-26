@@ -1,4 +1,4 @@
-https://data.gesdisc.earthdata.nasa.gov/data/MERRA2/M2T1NXSLV.5.12.4/2020/09/MERRA2_401.tavg1_2d_slv_Nx.20200929.nc4
+https://data.gesdisc.earthdata.nasa.gov/data/MERRA2/M2T1NXSLV.5.12.4/1982/09/MERRA2_401.tavg1_2d_slv_Nx.19820929.nc4
 https://data.gesdisc.earthdata.nasa.gov/data/MERRA2/M2T1NXSLV.5.12.4/2020/09/MERRA2_401.tavg1_2d_slv_Nx.20200930.nc4
 https://data.gesdisc.earthdata.nasa.gov/data/MERRA2/M2T1NXSLV.5.12.4/2020/10/MERRA2_400.tavg1_2d_slv_Nx.20201001.nc4
 https://data.gesdisc.earthdata.nasa.gov/data/MERRA2/M2T1NXSLV.5.12.4/2020/10/MERRA2_400.tavg1_2d_slv_Nx.20201002.nc4
