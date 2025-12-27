@@ -1,5 +1,11 @@
 # Spatiotemporal Estimation of PM2.5 Concentrations in the Kathmandu Valley Using Deep Neural Networks: Comparative Analysis with Machine Learning Approaches Leveraging OpenMeteo and NASA MERRA-2 Meteorological Datasets
 
+**This research work has been published in the International Journal of Engineering Technology (INJET).**
+
+[![DOI:10.3126/injet.v3i1.87012](https://img.shields.io/badge/DOI-10.3126%2Finjet.v3i1.87012-blue.svg)](https://doi.org/10.3126/injet.v3i1.87012)
+[![Journal: INJET](https://img.shields.io/badge/Journal-INJET-green.svg)](https://www.nepjol.info/index.php/injet/article/view/87012)
+
+---
 
 ## ⚙️ How to Run
 
