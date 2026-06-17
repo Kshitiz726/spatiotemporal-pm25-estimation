@@ -7,6 +7,16 @@
 
 ---
 
+## 🏆 Awards & Recognition
+
+We are proud to share that this project has been recognized for its academic and technical excellence:
+
+<p align="center">
+  <img src="certificate.jpg" alt="Certificate of Appreciation" height="450" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</p>
+
+---
+
 ## ⚙️ How to Run
 
 1. Clone the repository:
